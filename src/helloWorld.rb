@@ -1,2 +1,2 @@
-#! /usr/bin/ruby
-puts 'Hello world'
+i#! /usr/bin/ruby
+puts "Hello World #{ARGV[0]}"
