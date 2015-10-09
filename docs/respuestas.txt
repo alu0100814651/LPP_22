@@ -1,1 +1,13 @@
 Trabajo en equipo con git
+
+
+1--> ¿Cual es la diferencia entre compilacion e interpretacion?
+
+Que ne la compilacion se traduce de un codigo fuente a un lenguaje objeto, mientras que en la interpretacion se toma cada linea de codigo, se analiza y se ejecuta al mimo tiempo.
+
+
+2--> ...
+
+Que el HelloWorld.sh se puede ejecutar directamente sin problemas, mientras que el HelloWorld.rb necesita ir acompañado de su interprete (ruby helloWorld.rb)
+
+Con la primera linea en dicho ficehro, no necesitamos acompañarlo con su interprete para poder ejecutarlo
